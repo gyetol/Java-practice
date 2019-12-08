@@ -4,9 +4,9 @@ public class Hello {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("¾È³ç!");
-		System.out.println("¾È³ç" + "!!!");
-		String hello = "¾È³çÇÏ¼¼¿ä!";
+		System.out.println("ì•ˆë…•");
+		System.out.println("ì•ˆë…•" + "!!!");
+		String hello = "ì•ˆë…•í•˜ì„¸ìš”!";
 		System.out.println(hello);
 	}
 
