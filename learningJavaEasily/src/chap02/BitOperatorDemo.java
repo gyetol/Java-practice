@@ -16,7 +16,7 @@ public class BitOperatorDemo {
 		System.out.printf("%x->%d\n", i2, i2);
 		System.out.printf("%x->%d\n", i3, i3);
 
-		int a = 1, b = 2;
+		int a = 1;
 		System.out.println(- - -+ +a);
 	}
 
