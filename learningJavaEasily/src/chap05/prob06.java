@@ -20,3 +20,5 @@ public class prob06 {
         return array;
     }
 }
+
+//이해가 안가는 군...
