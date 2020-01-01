@@ -15,13 +15,17 @@ class Circle{
     public Circle(int radius){
         this.radius=radius;
     }
+
+    public int getRadius() {
+        return radius;
+    }
 }
 
 class ColoredCircle extends Circle{
     String color;
-    void show(){System.out.println("반지름이 "+radius+"인 "+color+" 원이다.");}
+    void show(){System.out.println("반지름이 "+getRadius()+"인 "+color+" 원이다.");}
     public ColoredCircle(int radius,String color){
-        super(1); //부모객체에서 radius를 가져오네~
+        super(radius); //부모객체에서 radius를 가져오네~
        // this.radius=radius;
         this.color=color;
     }
