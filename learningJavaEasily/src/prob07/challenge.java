@@ -5,3 +5,9 @@ public class challenge {
 
     }
 }
+
+class Bird implements Countable{
+    String name;
+
+
+}
