@@ -1,4 +1,4 @@
-package prob07;
+package chap07;
 
 public class challenge {
     public static void main(String[] args) {
