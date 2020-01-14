@@ -19,12 +19,15 @@ public class prob03 {
     }
 }
 
-class Book{
+class Book implements Comparable{
     int price;
     public Book(int price){
         this.price=price;
     }
     void show(){
         System.out.println("Book [price="+price+"]");
+    }
+   public int compareTo(Object other){
+
     }
 }
