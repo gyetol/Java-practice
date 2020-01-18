@@ -5,3 +5,13 @@ public class prob06 {
 
     }
 }
+
+interface Printable{
+
+}
+
+class A4 implements Printable{
+    public void a(){
+        System.out.println("A4");
+    }
+}
