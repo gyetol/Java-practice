@@ -1,3 +1,4 @@
+/*
 package chap07;
 
 public class prob04 {
@@ -15,4 +16,4 @@ class TalkableTest{
 
 interface talk{
 
-}
+}*/
