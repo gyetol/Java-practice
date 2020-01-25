@@ -1,6 +1,56 @@
 package chap07;
 
 import java.util.Arrays;
+
+public class prob03{
+    public static void main(String[] args) {
+        Book books[]={new Book(15000),new Book(50000),new Book(20000)};
+        System.out.println("정렬 전");
+        for(Book b:books)
+        {
+            System.out.println("Book [price="+b.price+"]");
+        }
+        System.out.println("정렬 후");
+        Arrays.sort(books);
+        for(Book b:books)
+        {
+            System.out.println("Book [price="+b.price+"]");
+        }
+    }
+}
+
+class Book implements Comparable{
+    int price;
+    public Book(int price) {
+        this.price = price;
+    }
+    public int compareTo(Object o){
+        Book b=(Book) o;
+        if(this.price>b.price){
+            return 1;
+        }
+        else if(this.price<b.price){
+            return -1;
+        }
+        else{
+            return 0;
+        }
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+
+import java.util.Arrays;
 import java.util.Comparator;
 
 public class prob03 {
@@ -13,7 +63,7 @@ public class prob03 {
         // 1 : Comparable을 구현한 클래스인 경우
         // Arrays.sort(b);
 
-        // 2 : Compartor 객체를 만들어서 전달인자로 보내주는 경우
+        // 2 : Comparator 객체를 만들어서 전달인자로 보내주는 경우
         Comparator<Book> comparatorBook = new Comparator<Book>() {
             @Override
             public int compare(Book b1, Book b2) {
@@ -83,4 +133,4 @@ class Book {
     void show() {
         System.out.println("Book [price=" + price + "]");
     }
-}
+}*/
