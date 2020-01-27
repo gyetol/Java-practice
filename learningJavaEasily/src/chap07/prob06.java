@@ -1,4 +1,3 @@
-/*
 package chap07;
 
 public class prob06 {
@@ -27,7 +26,16 @@ class B4 implements Printable{
 }
 
 class Call{
-
+    public void invoke(Object o){
+        if(o instanceof A4){
+            ((A4)o).a();
+        }
+        else if (o instanceof B4){
+            ((B4)o).b();
+        }
+        else{
+            ;
+        }
+    }
 }
 
-*/
