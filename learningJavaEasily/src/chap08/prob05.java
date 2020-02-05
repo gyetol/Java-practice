@@ -1,3 +1,4 @@
+/*
 package chap08;
 
 public class prob05 {
@@ -14,4 +15,4 @@ public class prob05 {
 
 interface Wordable{
     void word();
-}
+}*/

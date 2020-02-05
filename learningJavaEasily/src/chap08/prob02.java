@@ -1,3 +1,4 @@
+/*
 package chap08;
 
 public class prob02 {
@@ -11,4 +12,4 @@ public class prob02 {
 interface Flyable{
     void speed();
     void height();
-}
+}*/
