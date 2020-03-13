@@ -13,7 +13,7 @@ public class Manager {
     public static void func(){
 
     }
-
+1
     public Manager(){
         this(DEFAULT_COUNT);
     }
