@@ -1,4 +1,4 @@
-package pack1;
+package singleton_lecture;
 
 public class AppStart {
     public static void main(String[] args) {

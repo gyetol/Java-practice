@@ -1,3 +1,4 @@
+/*
 package p6;
 
 import p5.Iterator;
@@ -19,7 +20,8 @@ public class DoubleIterator extends Iterator {
     }
 
     public Object next(){
-        return cursor.setNext(cursor.getNext());
+       /return cursor.setNext(cursor.getNext());
         return collection.getAt(cursor++);
     }
 }
+*/

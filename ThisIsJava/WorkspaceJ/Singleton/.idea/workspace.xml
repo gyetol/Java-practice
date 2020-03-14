@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d1d73b57-e738-4db9-b243-b3e912d15ff4" name="Default Changelist" comment="" />
+    <list default="true" id="d1d73b57-e738-4db9-b243-b3e912d15ff4" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p2/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p2/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pack1/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton_lecture/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/pack1/MyLady.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/singleton_lecture/MyLady.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +21,17 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1YyU18uS72PhQT8bAnFVD9Z3T2V" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_12" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -33,13 +45,39 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="pack1.AppStart" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="AppStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton_practice.AppStart" />
       <module name="Singleton" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pack1.*" />
+          <option name="PATTERN" value="singleton_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton_lecture.AppStart" />
+      <module name="Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton_lecture.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="singleton_seok.Main" />
+      <module name="Singleton" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="singleton_seok.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -49,6 +87,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.AppStart (1)" />
         <item itemvalue="Application.AppStart" />
       </list>
     </recent_temporary>
@@ -64,10 +104,22 @@
       <option name="presentableId" value="Default" />
       <updated>1583914109605</updated>
       <workItem from="1583914112513" duration="4420000" />
+      <workItem from="1584094994396" duration="5911000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

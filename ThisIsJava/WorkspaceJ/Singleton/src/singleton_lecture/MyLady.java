@@ -1,4 +1,4 @@
- package pack1;
+ package singleton_lecture;
 
 public class MyLady{
     private  static MyLady instance= null;
@@ -13,7 +13,7 @@ public class MyLady{
         return instance;
     }
 
-    public String toString(){
+    /*public String toString(){
         return "나의 하나뿐인 그대";
-    }
+    }*/
 }

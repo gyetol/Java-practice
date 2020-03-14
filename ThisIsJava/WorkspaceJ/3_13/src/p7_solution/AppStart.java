@@ -1,3 +1,4 @@
+/*
 package p7_solution;
 
 public class AppStart {
@@ -14,3 +15,4 @@ public class AppStart {
         }
     }
 }
+*/

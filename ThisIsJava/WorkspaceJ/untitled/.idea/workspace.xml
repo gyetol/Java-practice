@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a632f175-0265-4f79-b130-f58847a943d7" name="Default Changelist" comment="" />
+    <list default="true" id="a632f175-0265-4f79-b130-f58847a943d7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p2/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p2/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p5/IntegerCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p5/IntegerCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p6/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p6/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p6/DoubleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p6/DoubleCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p6/DoubleIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p6/DoubleIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p7_solution/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p7_solution/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p7_solution/DoubleCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p7_solution/DoubleCollection.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_13/src/p7_solution/DoubleIterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p7_solution/DoubleIterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/pack1/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/src/singleton_lecture/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Singleton/src/pack1/MyLady.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Singleton/src/singleton_lecture/MyLady.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Car.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +31,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1YyAQuc40gtqMjJA0v1WMM2I2dp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -63,53 +83,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
-      <module name="3_11_2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
-      <module name="3_11_2" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Jumsu1" />
@@ -130,10 +103,22 @@
       <option name="presentableId" value="Default" />
       <updated>1583904447572</updated>
       <workItem from="1583904450227" duration="7286000" />
+      <workItem from="1584095728315" duration="1473000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

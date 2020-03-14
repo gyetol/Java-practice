@@ -5,7 +5,7 @@ public class IntegerCollection {
     private int count;
 
     public IntegerCollection(int size) {
-        base = new Integer[size];
+        //base = new Integer[size];
         count = 0;
     }
 

@@ -1,3 +1,4 @@
+/*
 package p7_solution;
 
 public class DoubleIterator extends Iterator{
@@ -21,3 +22,4 @@ public class DoubleIterator extends Iterator{
         return tmp;
     }
 }
+*/

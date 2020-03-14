@@ -10,5 +10,6 @@ public class AppStart {
 
         Duck r = new RubberDuck();
         r.fly();
+
     }
 }

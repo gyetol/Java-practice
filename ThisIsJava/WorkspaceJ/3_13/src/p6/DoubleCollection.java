@@ -1,3 +1,4 @@
+/*
 package p6;
 
 import p5.Iterator;
@@ -34,3 +35,4 @@ public class DoubleCollection {
     }
 }
 
+*/

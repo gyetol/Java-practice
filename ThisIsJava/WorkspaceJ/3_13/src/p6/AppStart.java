@@ -1,3 +1,4 @@
+/*
 package p6;
 
 public class AppStart {
@@ -14,3 +15,4 @@ public class AppStart {
         }
     }
 }
+*/

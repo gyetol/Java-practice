@@ -1,3 +1,4 @@
+/*
 package p7_solution;
 
 public class DoubleCollection {
@@ -27,3 +28,4 @@ public class DoubleCollection {
     public Iterator iterator() {
     }
 }
+*/
