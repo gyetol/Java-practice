@@ -34,11 +34,15 @@ public class Collection {
         }
     }
     public int getAt(int idx){
-        return base[idx];
+        if(idx<count){
+            return base[idx];
+        }
+        return -1;
+
     }
 
     public Iterator iterator(){
-        return
+        return new Iterator(this);
     }
 
 }

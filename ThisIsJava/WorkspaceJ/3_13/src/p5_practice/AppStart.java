@@ -1,4 +1,4 @@
-package p5;
+package p5_practice;
 
 public class AppStart {
     public static void main(String[] args) {
@@ -11,6 +11,8 @@ public class AppStart {
         while(it.hasNext()){
             int value = (int) it.next();
             System.out.println(value);
-        }
     }
+}
+
+
 }

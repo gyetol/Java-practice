@@ -1,43 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9dcd2248-1f68-4a47-991c-c98008a52b0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p4_practice/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p4_practice/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p4_practice/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p4_practice/Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p4_practice/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p4_practice/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p5/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p5/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p5/IntegerCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p5/IntegerCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd2475ec-9025-4623-9f8f-e66ced5f985c" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FavoritesManager">
-    <favorites_list name="3_16" />
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="ProjectId" id="1ZBiLKJOxWezAA0LfNHCBlFTTZl" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="1ZEY9JiDx2D0yiFlUHq7gyeO8fF" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -51,13 +32,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppStart (5)">
+  <component name="RunManager" selected="Application.AppStart (4)">
     <configuration name="AppStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="AnonymousLocalInnerClass.AppStart" />
-      <module name="3_16" />
+      <option name="MAIN_CLASS_NAME" value="UserDefinedException_solution.AppStart" />
+      <module name="3_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="AnonymousLocalInnerClass.*" />
+          <option name="PATTERN" value="UserDefinedException_solution.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,11 +47,11 @@
       </method>
     </configuration>
     <configuration name="AppStart (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FactoryMethod.AppStart" />
-      <module name="3_16" />
+      <option name="MAIN_CLASS_NAME" value="EqualsTest.AppStart" />
+      <module name="3_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FactoryMethod.*" />
+          <option name="PATTERN" value="EqualsTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,11 +60,11 @@
       </method>
     </configuration>
     <configuration name="AppStart (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception.AppStart" />
-      <module name="3_16" />
+      <option name="MAIN_CLASS_NAME" value="Builder.AppStart" />
+      <module name="3_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception.*" />
+          <option name="PATTERN" value="Builder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -92,11 +73,11 @@
       </method>
     </configuration>
     <configuration name="AppStart (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception2.AppStart" />
-      <module name="3_16" />
+      <option name="MAIN_CLASS_NAME" value="CloneTest.AppStart" />
+      <module name="3_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception2.*" />
+          <option name="PATTERN" value="CloneTest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -104,12 +85,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppStart (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Exception3.AppStart" />
-      <module name="3_16" />
+    <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="UserDefinedException.AppStart" />
+      <module name="3_17" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Exception3.*" />
+          <option name="PATTERN" value="UserDefinedException.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,11 +100,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppStart (5)" />
         <item itemvalue="Application.AppStart (4)" />
         <item itemvalue="Application.AppStart (3)" />
         <item itemvalue="Application.AppStart (2)" />
         <item itemvalue="Application.AppStart (1)" />
+        <item itemvalue="Application.AppStart" />
       </list>
     </recent_temporary>
   </component>
@@ -132,31 +113,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="9dcd2248-1f68-4a47-991c-c98008a52b0a" name="Default Changelist" comment="" />
-      <created>1584318830039</created>
+      <changelist id="cd2475ec-9025-4623-9f8f-e66ced5f985c" name="Default Changelist" comment="" />
+      <created>1584405567560</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584318830039</updated>
-      <workItem from="1584318835444" duration="22700000" />
-      <workItem from="1584353195531" duration="606000" />
-      <workItem from="1584405431756" duration="138000" />
+      <updated>1584405567560</updated>
+      <workItem from="1584405571467" duration="25033000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
