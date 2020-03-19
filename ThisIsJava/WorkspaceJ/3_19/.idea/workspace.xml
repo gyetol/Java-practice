@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bd9c0c66-3818-410c-8585-5abe4a0f2d01" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="5f01a3a0-c7c6-4282-9a45-0194cd55403d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,20 +15,13 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
-  </component>
-  <component name="ProjectId" id="1ZHMavo4EoaY8O9tqwx387yjq0q" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
-  </component>
+  <component name="ProjectId" id="1ZKBhXmOK4W7batBCwBmPeZTmQC" />
   <component name="PropertiesComponent">
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -45,13 +35,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppStart">
+  <component name="RunManager" selected="Application.AppStart (1)">
     <configuration name="AppStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Command.AppStart" />
-      <module name="3_18" />
+      <option name="MAIN_CLASS_NAME" value="AbstractFactoryPattern.AppStart" />
+      <module name="3_19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Command.*" />
+          <option name="PATTERN" value="AbstractFactoryPattern.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStart (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calendar.AppStart" />
+      <module name="3_19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calendar.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,37 +63,11 @@
       </method>
     </configuration>
     <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Adaptor.AppStart" />
-      <module name="3_18" />
+      <option name="MAIN_CLASS_NAME" value="Wrapper.AppStart" />
+      <module name="3_19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Adaptor.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppStart5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.AppStart5" />
-      <module name="3_18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AppStart6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="String.AppStart6" />
-      <module name="3_18" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="String.*" />
+          <option name="PATTERN" value="Math_Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,14 +76,47 @@
       </method>
     </configuration>
     <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Command_practice.AppStart" />
-      <module name="3_18" />
+      <option name="MAIN_CLASS_NAME" value="Math_Random.AppStart" />
+      <module name="3_19" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Command_practice.*" />
+          <option name="PATTERN" value="Math_Random.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStart2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="calendar.AppStart2" />
+      <module name="3_19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="calendar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStart3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Wrapper.AppStart3" />
+      <module name="3_19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Math_Random.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Message.AppStart" />
+      <module name="3_19" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -114,8 +124,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.AppStart (1)" />
-        <item itemvalue="Application.AppStart" />
-        <item itemvalue="Application.AppStart6" />
+        <item itemvalue="Application.AppStart (1)" />
+        <item itemvalue="Application.AppStart2" />
+        <item itemvalue="Application.AppStart (3)" />
         <item itemvalue="Application.AppStart5" />
       </list>
     </recent_temporary>
@@ -125,31 +136,16 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="bd9c0c66-3818-410c-8585-5abe4a0f2d01" name="Default Changelist" comment="" />
-      <created>1584491632464</created>
+      <changelist id="5f01a3a0-c7c6-4282-9a45-0194cd55403d" name="Default Changelist" comment="" />
+      <created>1584578024711</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1584491632464</updated>
-      <workItem from="1584491636642" duration="27067000" />
-      <workItem from="1584533584420" duration="1427000" />
-      <workItem from="1584577986150" duration="40000" />
+      <updated>1584578024711</updated>
+      <workItem from="1584578028748" duration="20774000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
   </component>
 </project>
