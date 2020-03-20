@@ -11,7 +11,7 @@ public class AppStart2 {
         Random rand= new Random();
 
         for (int i = 1; i < 1000; i++) {
-            ary[i] = 1;
+            ary[i] = i;
         }
         for (int i = 0; i < ary.length; i++) {
             int r = rand.nextInt(1000);
