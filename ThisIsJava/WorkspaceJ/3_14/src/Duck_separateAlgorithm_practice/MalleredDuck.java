@@ -1,4 +1,4 @@
-package p1_practice;
+package Duck_separateAlgorithm_practice;
 
 public class MalleredDuck extends Duck {
     public static final String NAME="청둥오리";

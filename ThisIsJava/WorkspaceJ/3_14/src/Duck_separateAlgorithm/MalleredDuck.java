@@ -1,4 +1,4 @@
-package p1;
+package Duck_separateAlgorithm;
 
 public class MalleredDuck extends Duck {
     public MalleredDuck(){

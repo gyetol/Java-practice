@@ -1,4 +1,4 @@
-package p1_practice;
+package Duck_separateAlgorithm_practice;
 
 public class FlyWithWing implements Flyable {
 

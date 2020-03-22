@@ -2,20 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="24a24e2e-977b-4db6-b5ca-0a479e59c259" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p1/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/p1/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Decorator/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2/Beverage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Decorator/Beverage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Decorator/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2/Decorator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Decorator/Decorator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2/Lemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Decorator/Lemon.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p2/Sugar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Decorator/Sugar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/Observer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Observer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/StaticDisplayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/StaticDisplayer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/Subject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/Subject.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p3/WeatherData.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Observer/WeatherData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Donald.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/Donald.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/FlyByWing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/FlyByWing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/FlyNoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/MalleredDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/MalleredDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/RubberDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm/RubberDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/Donald.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/Donald.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/Duck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/FlyNoWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/FlyNoWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/FlyWithWing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/FlyWithWing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/Flyable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/MalleredDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/MalleredDuck.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1_practice/RubberDuck.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Duck_separateAlgorithm_practice/RubberDuck.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -56,25 +59,12 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.AppStart (1)">
-    <configuration name="AppStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p1_practice.AppStart" />
-      <module name="3_14" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="p1_practice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="p1.AppStart" />
+      <option name="MAIN_CLASS_NAME" value="Duck_separateAlgorithm.AppStart" />
       <module name="3_14" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="p1.*" />
+          <option name="PATTERN" value="Duck_separateAlgorithm.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,6 +98,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Duck_separateAlgorithm_practice.AppStart" />
+      <module name="3_14" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Duck_separateAlgorithm_practice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
         <item itemvalue="Application.AppStart (1)" />
@@ -128,7 +131,7 @@
       <option name="presentableId" value="Default" />
       <updated>1584166641310</updated>
       <workItem from="1584166644375" duration="7781000" />
-      <workItem from="1584881303524" duration="4446000" />
+      <workItem from="1584881303524" duration="8122000" />
     </task>
     <servers />
   </component>

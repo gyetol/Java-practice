@@ -1,4 +1,4 @@
-package p1;
+package Duck_separateAlgorithm;
 
 public abstract class Duck {
     protected Flyable flyable;
