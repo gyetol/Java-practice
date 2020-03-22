@@ -1,4 +1,4 @@
-package p3;
+package Observer;
 
 public abstract class Subject {
     public abstract void addObserver(Observer o);

@@ -1,4 +1,4 @@
-package p2;
+package Decorator;
 
 public class AppStart {
     public static void main(String[] args) {

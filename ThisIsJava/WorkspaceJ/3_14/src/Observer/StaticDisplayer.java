@@ -1,4 +1,4 @@
-package p3;
+package Observer;
 
 public class StaticDisplayer extends Observer{
     WeatherData wd;

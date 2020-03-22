@@ -1,4 +1,4 @@
-package p3;
+package Observer;
 
 public class WeatherData extends Subject{
 

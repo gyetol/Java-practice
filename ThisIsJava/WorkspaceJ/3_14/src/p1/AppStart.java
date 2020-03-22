@@ -28,5 +28,9 @@ public class AppStart {
         d1.fly();
         d2.fly();
         d3.fly();
+
+        d1.getFlyable().doFly();
+        d2.getFlyable().doFly();
+        d3.getFlyable().doFly();
     }
 }

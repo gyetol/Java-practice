@@ -1,4 +1,4 @@
-package p2;
+package Decorator;
 
 public class Coffee extends Beverage {
     public static final String PDNAME="에스프레소";

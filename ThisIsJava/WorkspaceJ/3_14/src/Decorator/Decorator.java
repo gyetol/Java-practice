@@ -1,4 +1,4 @@
-package p2;
+package Decorator;
 
 public abstract class Decorator extends Beverage {
     protected Beverage beverage;

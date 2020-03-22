@@ -1,4 +1,4 @@
-package p2;
+package Decorator;
 
 public class Sugar extends Decorator {
     public static final String PDNAME ="설탕";
