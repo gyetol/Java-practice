@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5dc3b81a-7639-4090-b363-27b989e90321" name="Default Changelist" comment="" />
+    <list default="true" id="5dc3b81a-7639-4090-b363-27b989e90321" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/AfterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/AfterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/DeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/DeliveryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ObjectOutputStream2/FileObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ObjectOutputStream2/FileObject.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,11 +25,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1Zb8JwVLbfbbu1XM4K3L1TZVJCw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/Pattern_ObjectInOutstream" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -129,10 +143,22 @@
       <option name="presentableId" value="Default" />
       <updated>1585096364307</updated>
       <workItem from="1585096367665" duration="30588000" />
+      <workItem from="1585140737549" duration="3746000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

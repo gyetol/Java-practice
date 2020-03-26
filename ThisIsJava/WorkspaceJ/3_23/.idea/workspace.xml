@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e3d58bd7-efe0-4df0-8a7d-74418427b655" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_25/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/AfterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/AfterService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/DeliveryService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/DeliveryService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/OrderService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/OrderService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/Service.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/src/Service_Using_Thread_Collection/Service.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_25/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_25/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_25/src/ObjectOutputStream2/FileObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_25/src/ObjectOutputStream2/FileObject.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +34,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../learningJavaEasily" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -134,6 +141,7 @@
       <updated>1584923485253</updated>
       <workItem from="1584923488989" duration="24336000" />
       <workItem from="1585046345969" duration="3604000" />
+      <workItem from="1585151162534" duration="735000" />
     </task>
     <servers />
   </component>
@@ -145,7 +153,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>

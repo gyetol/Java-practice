@@ -40,7 +40,7 @@ public class FileObject {
     private void InClose() {
         try {
             in.close();
-           // in = null;
+            in = null;
         } catch (Exception e) {
         }
     }
@@ -48,7 +48,7 @@ public class FileObject {
     private void OutClose() {
         try {
             out.close();
-          //  out = null;
+            out = null;
         } catch (Exception e) {
         }
     }
@@ -60,11 +60,8 @@ public class FileObject {
         //출력 스트림 취득(생성) (조건: 출력스트림이 존재하지 않을 경우)
         if (this.in != null) {
             this.InClose();
-            this.OutOpen();
         }
-        else{
-            this.OutOpen();
-        }
+        this.OutOpen();
 
         out.writeObject(obj);
         out.flush();
