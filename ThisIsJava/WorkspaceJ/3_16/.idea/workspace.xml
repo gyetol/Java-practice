@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9dcd2248-1f68-4a47-991c-c98008a52b0a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p4_practice/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p4_practice/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p4_practice/Collection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p4_practice/Collection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p4_practice/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p4_practice/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p5/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p5/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_13/src/p5/IntegerCollection.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_13/src/p5/IntegerCollection.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../3_17/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +35,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_17" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -140,6 +141,7 @@
       <workItem from="1584318835444" duration="22700000" />
       <workItem from="1584353195531" duration="606000" />
       <workItem from="1584405431756" duration="138000" />
+      <workItem from="1585356758910" duration="31000" />
     </task>
     <servers />
   </component>

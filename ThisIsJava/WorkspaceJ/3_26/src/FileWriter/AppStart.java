@@ -19,13 +19,13 @@ public class AppStart {
         BufferedWriter bw=null;
         try{
             fw=new FileWriter("C:temp/data.txt");
-            bw=new BufferedWriter(fw);
-            out=new PrintWriter(bw);
+           // bw=new BufferedWriter(fw);
+            out=new PrintWriter(fw);
             for(Person p: students)
             {
                 out.printf("%s:%d\n",p.getName(),p.getAge());
             }
-            out.flush();
+           out.flush();
 
             /*out.println(100);
             out.println(3.14);

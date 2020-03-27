@@ -1,7 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e14dd9b1-65a9-43fe-ac09-e918f5c42ec7" name="Default Changelist" comment="" />
+    <list default="true" id="e14dd9b1-65a9-43fe-ac09-e918f5c42ec7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3_17/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_20/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -15,11 +29,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1ZQ4xUN5qqEyfZ21vHMZI5fvnsR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_23" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -107,10 +125,22 @@
       <workItem from="1584758236550" duration="812000" />
       <workItem from="1584772028429" duration="8714000" />
       <workItem from="1584869129989" duration="1283000" />
+      <workItem from="1585364105703" duration="60000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

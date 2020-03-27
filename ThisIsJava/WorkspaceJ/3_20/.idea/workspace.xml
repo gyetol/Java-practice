@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a26bc2f0-43b4-4598-8817-4aace94da697" name="Default Changelist" comment="" />
+    <list default="true" id="a26bc2f0-43b4-4598-8817-4aace94da697" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../3_17/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_14/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_19/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,10 +28,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1ZNdS5GQGD7NYfFIOXW6m0lWpoJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_21" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -120,10 +137,22 @@
       <option name="presentableId" value="Default" />
       <updated>1584683481104</updated>
       <workItem from="1584683485291" duration="10094000" />
+      <workItem from="1585364085885" duration="18000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>

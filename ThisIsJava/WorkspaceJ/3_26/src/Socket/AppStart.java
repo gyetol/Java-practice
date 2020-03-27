@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 public class AppStart {
     public static void main(String[] args) {
-     /*  try {
+   /*   try {
             InetAddress ia = InetAddress.getLocalHost(); //무조건 자기자신이라 예외발생안함
             System.out.println(ia.getHostAddress());
             System.out.println(ia.getHostName());
