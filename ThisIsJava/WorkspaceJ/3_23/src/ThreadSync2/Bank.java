@@ -29,7 +29,7 @@ public class Bank {
     public void deposit(int amount){
         balance+=amount;
     }
-    public synchronized int withdraw(int amount){ //메소드 동기화
+    public /*synchronized */int withdraw(int amount){ //메소드 동기화
         if(amount>balance){
             return 0;
         }

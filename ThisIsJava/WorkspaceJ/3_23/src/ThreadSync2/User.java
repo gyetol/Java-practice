@@ -9,6 +9,7 @@ public class User implements Runnable {
         this.bank=bank;
     }
 
+
     public void setBank(Bank bank){
         this.bank=bank;
     }
