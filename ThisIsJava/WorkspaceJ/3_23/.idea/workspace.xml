@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="e3d58bd7-efe0-4df0-8a7d-74418427b655" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadSync2/Bank.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadSync2/Bank.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ThreadSync2/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ThreadSync2/User.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,7 +26,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_21" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3_26" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
@@ -139,6 +137,7 @@
       <workItem from="1585293937441" duration="24000" />
       <workItem from="1585364167616" duration="359000" />
       <workItem from="1585371509954" duration="4226000" />
+      <workItem from="1585485925726" duration="661000" />
     </task>
     <servers />
   </component>
