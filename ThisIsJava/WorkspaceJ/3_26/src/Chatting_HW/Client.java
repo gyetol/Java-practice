@@ -13,7 +13,10 @@ public class Client {
 
     public Client(String serverName,int serverPort){
         try{
+            this.serverName=serverName;
+            this.serverPort=serverPort;
             socket= new Socket(serverName,serverPort);
+            this.clientReceiver = new ClientReceiver(socket);
             System.out.println("127.0.0.1서버에 접속 성공");
         }
         catch (Exception e){
