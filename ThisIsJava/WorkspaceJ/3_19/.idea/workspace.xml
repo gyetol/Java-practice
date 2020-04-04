@@ -2,16 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5f01a3a0-c7c6-4282-9a45-0194cd55403d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../3_17/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_14/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_14/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/src/CloneTest/AppStart.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_23/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/FileWriter/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" beforeDir="false" afterPath="$PROJECT_DIR$/../3_26/src/Socket/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -163,6 +157,8 @@
       <workItem from="1584612579717" duration="10709000" />
       <workItem from="1584683402493" duration="81000" />
       <workItem from="1585364069100" duration="15000" />
+      <workItem from="1586055927750" duration="135000" />
+      <workItem from="1586056104095" duration="10000" />
     </task>
     <servers />
   </component>
