@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5a26a062-e0a1-4b62-9e02-82521175a825" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_16/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_17/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_18/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_19/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_19/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_20/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_20/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../3_24/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ImprovedForSentenceTest/AppStart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniproject/Project_School/src/PrintFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject/Project_School/src/PrintFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniproject/Project_School/src/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject/Project_School/src/Printable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../miniproject/Project_School/src/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject/Project_School/src/School.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/p1/AppStart.java" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ObjectInputOutputStreamExample">
+  <component name="RunManager" selected="Application.AppStart (2)">
     <configuration name="AppStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.AppStart" />
       <module name="practice" />
@@ -74,6 +73,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="AppStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ImprovedForSentenceTest.AppStart" />
+      <module name="practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ImprovedForSentenceTest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ObjectInputOutputStreamExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ObjectInputOutputStream.ObjectInputOutputStreamExample" />
       <module name="practice" />
@@ -89,6 +101,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AppStart (2)" />
         <item itemvalue="Application.ObjectInputOutputStreamExample" />
         <item itemvalue="Application.AppStart (1)" />
         <item itemvalue="Application.AppStart" />
@@ -111,6 +124,8 @@
       <workItem from="1585824154169" duration="2001000" />
       <workItem from="1585913218324" duration="25000" />
       <workItem from="1586056649901" duration="635000" />
+      <workItem from="1586170275617" duration="50000" />
+      <workItem from="1586172405520" duration="1636000" />
     </task>
     <servers />
   </component>

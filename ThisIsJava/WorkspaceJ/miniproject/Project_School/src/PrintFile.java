@@ -14,7 +14,7 @@ public class PrintFile implements Printable {
     }
 
     @Override
-    public void print() {
+    public void print(List list) {
 
     }
 
@@ -71,4 +71,5 @@ public class PrintFile implements Printable {
 
 
     }
+
 }
