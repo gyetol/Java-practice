@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5a26a062-e0a1-4b62-9e02-82521175a825" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ImprovedForSentenceTest/AppStart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniproject/Project_School/src/PrintFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject/Project_School/src/PrintFile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniproject/Project_School/src/Printable.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject/Project_School/src/Printable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniproject/Project_School/src/School.java" beforeDir="false" afterPath="$PROJECT_DIR$/../miniproject/Project_School/src/School.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/p1/AppStart.java" beforeDir="false" />
-    </list>
+    <list default="true" id="5a26a062-e0a1-4b62-9e02-82521175a825" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../miniproject/Project_School" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -46,7 +39,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppStart (2)">
+  <component name="RunManager" selected="Application.AppStart">
     <configuration name="AppStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.AppStart" />
       <module name="practice" />
@@ -101,7 +94,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppStart (2)" />
         <item itemvalue="Application.ObjectInputOutputStreamExample" />
         <item itemvalue="Application.AppStart (1)" />
         <item itemvalue="Application.AppStart" />
@@ -126,6 +118,7 @@
       <workItem from="1586056649901" duration="635000" />
       <workItem from="1586170275617" duration="50000" />
       <workItem from="1586172405520" duration="1636000" />
+      <workItem from="1586176071019" duration="13000" />
     </task>
     <servers />
   </component>
