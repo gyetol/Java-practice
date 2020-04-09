@@ -27,7 +27,12 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="C:/WorkspaceJ/4_9_JDBC" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JO\programming\Java Language Practice\ThisIsJava\WorkspaceJ\practice\src\JDBC2" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -41,7 +46,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AppStart (2)">
+  <component name="RunManager" selected="Application.AppStart">
     <configuration name="AppStart (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Arrays.AppStart" />
       <module name="practice" />
@@ -109,7 +114,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.AppStart (2)" />
         <item itemvalue="Application.ObjectInputOutputStreamExample" />
         <item itemvalue="Application.AppStart (1)" />
         <item itemvalue="Application.AppStart" />
@@ -137,7 +141,9 @@
       <workItem from="1586176071019" duration="13000" />
       <workItem from="1586247756442" duration="38000" />
       <workItem from="1586261378146" duration="31000" />
-      <workItem from="1586307248640" duration="14724000" />
+      <workItem from="1586307248640" duration="18057000" />
+      <workItem from="1586358826305" duration="2346000" />
+      <workItem from="1586392663441" duration="30000" />
     </task>
     <servers />
   </component>
