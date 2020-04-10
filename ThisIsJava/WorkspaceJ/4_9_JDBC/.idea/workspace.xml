@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3cd817bc-5a06-4d58-8582-535eb3889f1f" name="Default Changelist" comment="" />
+    <list default="true" id="3cd817bc-5a06-4d58-8582-535eb3889f1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +32,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
   <component name="ProjectId" id="1aGAe9K0IG2RUJsAcpdQgLUVixl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mariadb" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="C:/Program Files/Java/jdk-13/lib/mysql-connector-java-8.0.18.zip!/" />
@@ -44,6 +54,7 @@
       <recent name="p2" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\JO\programming\Java Language Practice\ThisIsJava\WorkspaceJ\4_9_JDBC\src\employeeSolution" />
       <recent name="C:\WorkspaceJ\4_9_JDBC\src\p1" />
     </key>
   </component>
@@ -142,10 +153,26 @@
       <workItem from="1586351653827" duration="3635000" />
       <workItem from="1586358761589" duration="62000" />
       <workItem from="1586392695608" duration="21063000" />
+      <workItem from="1586428789634" duration="3889000" />
+      <workItem from="1586486852504" duration="324000" />
+      <workItem from="1586488746191" duration="41000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
